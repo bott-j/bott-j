@@ -1,6 +1,6 @@
 Hello, I am a senior engineer with experience in the field of software control, R&D and electrical engineering.
 
-Here I will be uploading new and old code which I have developed in my personal time, for the most part in Python or C++. 
+Here I will be uploading new and old code which I have developed in my own time, for the most part in Python or C++. 
 
 <!--
 **bott-j/bott-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
