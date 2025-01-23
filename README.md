@@ -2,6 +2,7 @@ Hello, I am a senior engineer with experience in the field of software control, 
 
 Here I will be uploading new and old code which I have developed in my own time, for the most part in Python or C++. 
 
+Also see my blog on github pages at [bott-j.github.io](https://bott-j.github.io/) where I post on various engineering and science topics.  
 <!--
 **bott-j/bott-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
